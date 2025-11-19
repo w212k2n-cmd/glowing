@@ -1,4 +1,6 @@
 # ⚡ Glow Climate Dashboard
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/launch?repository=https://github.com/w212k2n-cmd/glowing&main=app/finalized_dashboard_app.py)
+
 
 A futuristic Streamlit app that visualizes energy consumption and climate anomaly data with glowing neon UI effects.
 
